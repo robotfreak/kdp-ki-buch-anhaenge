@@ -33,16 +33,18 @@
 
 Die Sätze 1–10 in knapper Form, jede Zeile für sich:
 
-- Wer nicht weiß, wohin die Daten gehen, tippt sie nicht ein.
-- Die echten Namen der Klasse bleiben draußen.
-- Noten setzt die Lehrkraft.
-- Die Regeln der Klasse tragen die Klasse.
-- Hilfe erklärt, Ersatz schreibt ab.
-- Ein Score ist ein Verdacht, kein Urteil.
-- KI-Hilfe wird notiert.
-- Geprüft ist geprüft. Alles andere ist eine Vermutung.
-- Werkzeuge: Sache der Schule. Entscheidungen: Sache der Lehrkraft.
-- Nichts von allem ist fertig. Weitermachen.
+```text
+Wer nicht weiß, wohin die Daten gehen, tippt sie nicht ein.
+Die echten Namen der Klasse bleiben draußen.
+Noten setzt die Lehrkraft.
+Die Regeln der Klasse tragen die Klasse.
+Hilfe erklärt, Ersatz schreibt ab.
+Ein Score ist ein Verdacht, kein Urteil.
+KI-Hilfe wird notiert.
+Geprüft ist geprüft. Alles andere ist eine Vermutung.
+Werkzeuge: Sache der Schule. Entscheidungen: Sache der Lehrkraft.
+Nichts von allem ist fertig. Weitermachen.
+```
 
 ---
 

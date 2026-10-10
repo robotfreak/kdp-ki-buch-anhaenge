@@ -11,12 +11,20 @@
 
 ## Die Regeln der 9c (als Beispiel, NICHT als Vorgabe)
 
+```text
+Klassen-KI-Charta der 9c (Beispiel — deine Klasse schreibt ihre eigene)
+
 1. Die KI darf mir was erklären. Die Aufgabe mach ich selbst.
 2. Die KI darf mir Spuren zeigen. Nachprüfen und schreiben tu ich.
 3. Bei Hausarbeiten zeigen wir Zwischenstände. Das ist fair für alle.
 4. Werkzeuge sind erlaubt, wenn sie beim Üben helfen. Nicht, wenn sie das Lernen ersetzen.
+5.
+6.
+7.
+```
 
-*(Plätze 5–7 je Klasse individuell — die Grenz-Fälle aus der dritten Spalte!)*
+*(Plätze 5–7 sind leere Zeilen — deine Klasse füllt sie am Ende der Charta-Stunde selbst.)*
+
 
 ## Wartung
 
