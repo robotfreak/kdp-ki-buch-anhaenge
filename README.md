@@ -18,6 +18,11 @@ anstatt sie aus dem Buch abzutippen.
 
 1. Die gewünschte Datei öffnen (unten auf der Datei-Liste klicken)
 2. Den Rohtext markieren und kopieren (der Stift rechts oben: „Raw")
+
+**Noch schneller:** Jeder Prompt im Anhang A steht in einem grauen
+Kasten mit Kopier-Knopf (das Kopier-Symbol oben rechts am Kasten) —
+ein Klick, und der Wortlaut liegt in der Zwischenablage, fertig zum
+Einfügen ins KI-Fenster.
 3. In Ihre eigene Datei einfügen und an Ihre Klasse anpassen
 
 Die Prompts stehen in **Anführungszeichen** — das ist der Wortlaut,
