@@ -1,5 +1,5 @@
 
-# Anhang C: Das Geländer: zehn Sätze fürs Lehrerzimmer
+# Anhang C: Das Geländer, zehn Sätze fürs Lehrerzimmer
 
 *(Der A4-Poster-Satz: zum Ausdrucken, Aufhängen, Weitergeben. Jeder Satz steht an einer Stelle des Buches — die Nummern dahinter nennen das Kapitel.)*
 

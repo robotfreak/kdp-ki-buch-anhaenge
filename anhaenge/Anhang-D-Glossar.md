@@ -1,5 +1,5 @@
 
-# Anhang D: Glossar: die Wörter dieses Buchs
+# Anhang D: Glossar, die Wörter dieses Buchs
 
 *(Fünfzehn Begriffe, wie sie in diesem Buch verwendet werden. Kein Fachjargon, keine englischen Wörter — wo das Fach ein anderes benutzt, steht es in Klammern.)*
 
