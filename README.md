@@ -13,6 +13,8 @@ anstatt sie aus dem Buch abzutippen.
 | Anhang B – Die Klassen-KI-Charta | Die Vorlage aus Kapitel 8, kopierbar für Ihre Klasse |
 | Anhang C – Das Geländer | Die zehn Sätze fürs Lehrerzimmer (A4-Poster-Stil) |
 | Anhang D – Glossar | Die 15 Begriffe in Alltagssprache |
+| Anhang E – Die DACH-Synopse | Die Regel-Lage in DE/AT/CH im Überblick |
+| Anhang F – Die Werkzeug-Quelle | Diese Adresse + der QR-Code (für die Buch-Leser) |
 
 ## Die Nutzung
 
