@@ -55,9 +55,9 @@ Nichts von allem ist fertig. Weitermachen.
 | 1 | K11, die DSGVO-Hygiene-Formel | „Wenn Sie nicht wissen, wohin die Daten gehen …" |
 | 2 | K11, die DSGVO-Daten-Frage | „Die echten Namen der Klasse kommen nicht ins Fenster" |
 | 3 | K5, die harte Grenze | „Noten setzen SIE" — die K5-These |
-| 4 | K8, die Charta-Stunde | „Die Wörter sind immer noch die der Klasse" (K12) |
+| 4 | K12, der Rückblick auf die Charta (K8) | „Die Wörter sind immer noch die der Klasse" |
 | 5 | K8, die 2 Worte | HILFE. ERSATZ. |
-| 6 | K7, der Score-Satz | „Ein Verdacht ist das nicht … es ist ein Gefühl" + die 2 Fehler-Arten |
+| 6 | K7, der Score-Satz | „Ein Prozentwert ist ein Anlass für ein Gespräch, kein Urteil" + die 2 Fehler-Arten |
 | 7 | K10, der Transparenz-Eintrag | „Wo die KI etwas beigetragen hat, notieren wir es" |
 | 8 | K3/K9, die 3 Fehler-Namen | „Gibt es diese Studie?" (K10s BKA-Moment) |
 | 9 | K11, die Entlastung | „Die Schule trägt die Verantwortung für die Werkzeuge" |
