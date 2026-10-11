@@ -1,5 +1,5 @@
 
-# Anhang A — Die Prompts für den Schulalltag
+# Anhang A: Die Prompts für den Schulalltag
 
 **Sammlungs-Logik:** je fertigem Kapitel wandern die Erste-Einsätze-Prompts hierher (mit Kapitel-Verweis). **Alle 12 Kapitel sind vertreten** (Peters 10.10.-Entscheidung: die Voll-Ablage statt der 30er-Zahl), sortiert nach Funktion, alle ohne Anglizismen („Auftrag" statt „Prompt" — die Buch-Sprachregel aus Kapitel 2).
 
