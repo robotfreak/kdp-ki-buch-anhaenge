@@ -1,6 +1,6 @@
 # Anhang F: Die Werkzeug-Quelle
 
-Alle Vorlagen aus diesem Buch stehen als Text-Dateien im Internet —
+Alle Vorlagen aus diesem Buch stehen als Text-Dateien im Internet,
 zum Kopieren statt zum Abtippen. Die Adresse steht unter dem Bild,
 der Bild-Code (QR) führt direkt dorthin.
 
@@ -10,12 +10,12 @@ der Bild-Code (QR) führt direkt dorthin.
 
 **Was Sie dort finden:**
 
-- **Anhang A** — die 42 Prompts aus allen zwölf Kapiteln
-- **Anhang B** — die Klassen-KI-Charta als Vorlage zum Kopieren
-- **Anhang C** — das Geländer: die zehn Sätze fürs Lehrerzimmer
-- **Anhang D** — das Glossar: die 15 Begriffe in Alltagssprache
+- **Anhang A**, die 42 Prompts aus allen zwölf Kapiteln
+- **Anhang B**, die Klassen-KI-Charta als Vorlage zum Kopieren
+- **Anhang C**, das Geländer: die zehn Sätze fürs Lehrerzimmer
+- **Anhang D**, das Glossar: die 15 Begriffe in Alltagssprache
 
-**So nutzen Sie es:** Die Datei öffnen — jeder Prompt steht in einem
+**So nutzen Sie es:** Die Datei öffnen, jeder Prompt steht in einem
 grauen Kasten mit Kopier-Knopf (das Kopier-Symbol oben rechts am
 Kasten): ein Klick, und der Wortlaut liegt in der Zwischenablage,
 fertig zum Einfügen ins KI-Fenster. Die Angaben in eckigen Klammern
