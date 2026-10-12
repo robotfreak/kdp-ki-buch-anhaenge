@@ -1,6 +1,6 @@
 # Anhang E: Die Rechts-Lage in Deutschland, Österreich und der Schweiz
 
-*(Die Synopse zu Kapitel 11, vereinfacht auf die Fragen, die im Schulalltag auftauchen. Die vollständige Fassung mit allen Quellen liegt dem Kapitel zugrunde; die Zahlen und Paragraphen hier sind geprüft, der Stand ist der von heute.)*
+*(Die Synopse zu Kapitel 11, vereinfacht auf die Fragen, die im Schulalltag auftauchen. Die vollständige Fassung mit allen Quellen liegt dem Kapitel zugrunde; die Zahlen und Paragraphen hier sind geprüft, der Stand ist Oktober 2026.)*
 
 ---
 
@@ -36,4 +36,4 @@
 - **Österreich:** Der Bund macht die Schulgesetze, die Vollziehung teilen sich Bund und Länder über die Bildungsdirektionen, die Bildungsdirektion ist Ihre Anlaufstelle.
 - **Schweiz:** Die Antwort aus Bern gilt nicht automatisch für Zürich, fragen Sie am besten beim Kanton.
 
-*(Die Rechts-Lage = der Stand beim Schreiben dieses Buches. Die vollständigen Quellen des Kapitels nennen die Gesetze und Urteile einzeln.)*
+*(Die Rechts-Lage = der Stand Oktober 2026. Die vollständigen Quellen des Kapitels nennen die Gesetze und Urteile einzeln.)*
