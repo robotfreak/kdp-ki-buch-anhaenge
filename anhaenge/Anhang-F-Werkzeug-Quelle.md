@@ -12,8 +12,9 @@ der Bild-Code (QR) führt direkt dorthin.
 
 - **Anhang A**, die 42 Prompts aus allen zwölf Kapiteln
 - **Anhang B**, die Klassen-KI-Charta als Vorlage zum Kopieren
-- **Anhang C**, das Geländer: die zehn Sätze fürs Lehrerzimmer
+- **Anhang C**, das Gerüst: die zehn Sätze fürs Lehrerzimmer
 - **Anhang D**, das Glossar: die 15 Begriffe in Alltagssprache
+- **Anhang E**, die DACH-Synopse: die Rechts-Lage in Deutschland, Österreich und der Schweiz
 
 **So nutzen Sie es:** Die Datei öffnen, jeder Prompt steht in einem
 grauen Kasten mit Kopier-Knopf (das Kopier-Symbol oben rechts am
