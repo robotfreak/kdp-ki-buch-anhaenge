@@ -19,8 +19,8 @@ Die drei Arten, wie eine KI falsch liegt: **die erfundene Quelle** (es gibt das 
 **Gewohnheit der Ehrlichkeit**
 Die Zeile unter der Arbeit, in der steht, wo die KI beigetragen hat: „KI: drei Ideen für den Anfang, alle verworfen." Niemand kontrolliert sie, sie entlastet. „Wer sagt, wie etwas entstanden ist, muss sich später nicht erklären." *(Kapitel 10; die Zeile kehrt im K12-Finale unter Bergers eigenen Arbeitsblättern wieder.)*
 
-**Geländer**
-Die Metapher dieses Buchs für Regeln im Umgang mit KI: kein Zaun, der aussperrt, sondern ein Geländer, an dem man sich festhält. „Wer weiß, wo es steht, geht sicherer." Die zehn Sätze fürs Lehrerzimmer stehen in Anhang C. *(Das Bild kommt in Kapitel 11.)*
+**Gerüst**
+Die Metapher dieses Buchs für Regeln im Umgang mit KI: kein Zaun, der aussperrt, sondern ein Gerüst, das Halt gibt. „Wer weiß, wo es steht, geht sicherer." Die zehn Sätze fürs Lehrerzimmer stehen in Anhang C. *(Das Bild kommt in Kapitel 11.)*
 
 **Hygiene-Frage**
 Die einzige Frage vor jeder Eingabe in ein KI-Fenster: „Wohin gehen die Daten?" Weiß niemand die Antwort, bleibt das Feld leer. Die ganze Vorsicht passt auf einen Streifen Papier. *(Kapitel 11 geprägt, K12 hängt den Streifen ins Klassenfenster.)*
@@ -51,4 +51,4 @@ Die Stufen einer Arbeit, die man sieht: Gliederung, Rohfassung, Endfassung. Sie 
 
 ---
 
-*(Ehrlichkeits-Vermerk: Der Sprachregel nach steht in diesem Buch „Auftrag" statt des englischen Fachworts. Wo Zitate aus Werkzeug-Oberflächen oder Gesetzen abweichende Begriffe verwenden, bleiben sie im Original, Wortlaut geht vor Sprachregel.)*
+*(Anmerkung: Der Sprachregel nach steht in diesem Buch „Auftrag" statt des englischen Fachworts. Wo Zitate aus Werkzeug-Oberflächen oder Gesetzen abweichende Begriffe verwenden, bleiben sie im Original, Wortlaut geht vor Sprachregel.)*
